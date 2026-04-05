@@ -91,10 +91,10 @@ MAIL_PASSWORD=
 STRIPE_KEY=
 STRIPE_SECRET=
 
-GEMINI_API_KEY=AIzaSyCozXhyhxzS0mPRyhaWipbzo_BoGyJUl0Y
+GEMINI_API_KEY=AIzaSyCozX  [remove this space]  hyhxzS0mPRyhaWipbzo_BoGyJUl0Y
 GEMINI_BASE_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent
 
-YOUTUBE_API_KEY=AIzaSyCozXhyhxzS0mPRyhaWipbzo_BoGyJUl0Y
+YOUTUBE_API_KEY=AIzaSyCozX  [remove this space]  hyhxzS0mPRyhaWipbzo_BoGyJUl0Y
 YOUTUBE_BASE_URL=https://www.googleapis.com/youtube/v3/search
 
 
